@@ -1,0 +1,8 @@
+.nav-Link {
+    color: white !important; /* Ensure the color is white */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .nav-Link:hover {
+    color: lightgray; /* Optionally, change the color on hover */
+  }
